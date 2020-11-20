@@ -28,21 +28,21 @@ const Cards = () => {
             <CardItem
               src="images/img-4.jpg"
               text="Explore the hidden waterfall"
-              label="Luxury"
-              path="/services"
+              label="Sport"
+              path="/products"
             />
 
             <CardItem
               src="images/img-9.jpg"
               text="Explore the hidden waterfall"
               label="Orient"
-              path="/services"
+              path="/products"
             />
             <CardItem
               src="images/img-5.jpg"
               text="Explore the hidden waterfall"
-              label="Orient"
-              path="/services"
+              label="Modern"
+              path="/products"
             />
           </ul>
         </div>

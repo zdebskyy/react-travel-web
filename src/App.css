@@ -16,19 +16,21 @@
 }
 
 .services {
-  background-color: rosybrown;
+  /* background-color: rosybrown; */
+  background-image: url("https://images.unsplash.com/photo-1605289686707-c13ede6e7c75?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1700&q=80");
   background-position: center;
   background-size: cover;
   background-repeat: no-repeat;
-  color: black;
+  color: white;
   font-size: 100px;
 }
 
 .products {
-  background-color: silver;
+  /* background-color: silver; */
+  background-image: url("https://images.unsplash.com/photo-1568484598912-bb6b697f0b48?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=2096&q=80");
   background-position: center;
-  background-size: fill;
+  background-size: cover;
   background-repeat: no-repeat;
-  color: black;
+  color: white;
   font-size: 100px;
 }
