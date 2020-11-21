@@ -7,7 +7,7 @@ const MainSection = () => {
     <div className="main-container">
       <video src="video/video-1.mp4" autoPlay loop muted />
       <h1>Your travel begins from here</h1>
-      <p>Are you with me?</p>
+      <p>Are you with me ?</p>
     </div>
   );
 };
